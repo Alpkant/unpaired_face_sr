@@ -1,3 +1,6 @@
+Dataset/HIGH/
+Dataset/LOW/
+Dataset/wider_lnew/
 test_res/
 testset/
 __pycache__
